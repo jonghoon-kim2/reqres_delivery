@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     _PROJECT_NAME: "skccuser01-delivery"
-
+ 
 phases:
   install:
     runtime-versions:
